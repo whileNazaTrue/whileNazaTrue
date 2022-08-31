@@ -17,5 +17,5 @@
 - 👷‍♂️ &nbsp; Team oriented worker
 - 🦾 &nbsp; Hard working
 - 🏁 &nbsp; Determined
-- 🧠 &nsbp; Open to learning new technologies
+- 🧠 &nbsp; Open to learning new technologies
 

@@ -8,7 +8,7 @@
 - 🐍 &nbsp; Python (Simple bot development)
 - 🖥️ &nbsp; API development and consumption
 - 📋 &nbsp; SQL
-- 
+- 🦦 &nbsp; MongoDB
 
 <h2> 🛠 &nbsp; Skills and strengths</h2>
 

@@ -7,6 +7,8 @@
 - 🟡&nbsp; JavaScript (NodeJS)
 - 🐍 &nbsp; Python (Simple bot development)
 - 🖥️ &nbsp; API development and consumption
+- 📋 &nbsp; SQL
+- 
 
 <h2> 🛠 &nbsp; Skills and strengths</h2>
 

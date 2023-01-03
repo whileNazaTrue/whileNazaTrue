@@ -1,4 +1,4 @@
-<h1> Hello! My name is Nazareno</h1>
+<h1> Hello! My name is Nazareno and I'm a programming technician</h1>
 
 <h2> 👨🏻‍💻 &nbsp;Technologies</h2>
 

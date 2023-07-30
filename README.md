@@ -5,7 +5,7 @@
 - ☕ &nbsp; Java
 - ©️ &nbsp; C
 - 🟡&nbsp; JavaScript (NodeJS)
-- 🐍 &nbsp; Python (Simple bot development)
+- 🐍 &nbsp; Python 
 - 🖥️ &nbsp; API development and consumption
 - 📋 &nbsp; SQL
 - 🦦 &nbsp; MongoDB
